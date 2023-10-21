@@ -14,7 +14,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,github,vscode,docker,laravel,discord,php,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,github,vscode,docker,laravel,discord,php,aws"/> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.

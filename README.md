@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taka727&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/go_karuma_web)](https://twitter.com/go_karuma_web)
+
 
 # NOW TRAINING
 

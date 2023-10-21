@@ -2,11 +2,11 @@
 ### Just 25 years old 
 ### Feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?user.name=taka727&show_icons=true&theme=vue-dark)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=taka727&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user.name=taka727&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taka727&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?user.name=taka727&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taka727&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/go_karuma_web)](https://twitter.com/go_karuma_web)
 

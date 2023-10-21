@@ -1,10 +1,7 @@
 # Backend Developer in Japan👋
-### Just 20 years old 
+### Just 25 years old 
 ### Feel free to contact me anytime!👍
 #
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/go_karuma_web)
-
 
 # NOW TRAINING
 

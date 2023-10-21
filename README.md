@@ -9,7 +9,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=taka727&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
 # NOW TRAINING
 
 <p align="left">

@@ -19,12 +19,12 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,github,vscode,docker,laravel,discord,php"/> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,laravel,php"/> <br /><br />
 
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=typescript,mysql,laravel,docker,vscode,github,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,cs,aws" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->

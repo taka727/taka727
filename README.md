@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# Developer in Japan👋
 ### Just 25 years old 
 ### Feel free to contact me anytime!👍
 #
